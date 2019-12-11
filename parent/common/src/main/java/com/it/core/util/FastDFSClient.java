@@ -12,7 +12,7 @@ public class FastDFSClient {
 
 
 	/*uguguygug*/
-
+    private String aa;
 	private TrackerClient trackerClient = null;
 	private TrackerServer trackerServer = null;
 	private StorageServer storageServer = null;
